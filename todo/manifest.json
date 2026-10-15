@@ -1,0 +1,11 @@
+{
+  "name": "Mera Todo",
+  "short_name": "Todo",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    { "src": "icon.jpg", "sizes": "1600x1600", "type": "image/jpeg" }
+  ]
+}
